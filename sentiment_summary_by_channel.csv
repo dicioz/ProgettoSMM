@@ -1,0 +1,5 @@
+channel,Video,Commenti,Sentiment_Medio,Sentiment_StdDev,Positivity,Negativity,Neutrality
+Marques Brownlee,8,320,0.39,0.421,0.161,0.041,0.798
+AppleInsider,21,556,0.345,0.46,0.16,0.048,0.791
+Unbox Therapy,3,120,0.3,0.413,0.173,0.063,0.765
+TechDale,6,240,0.158,0.308,0.069,0.015,0.916

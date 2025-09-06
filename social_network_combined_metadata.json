@@ -1,0 +1,8 @@
+{
+  "original_nodes": 750,
+  "original_edges": 146,
+  "reduced_nodes": 600,
+  "reduced_edges": 146,
+  "complexity_score": 0.5845198041833555,
+  "reduction_strategy": "importance_based"
+}

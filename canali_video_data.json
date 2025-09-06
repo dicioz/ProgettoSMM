@@ -1,0 +1,59 @@
+{
+  "canali": [
+    {
+      "nome": "Marques",
+      "video_dopo": [
+        "86Gy035z_KA",
+        "SaneSRqePVY",
+        "dtp6b76pMak"
+      ],
+      "video_prima": [
+        "OFvXuyITwBI",
+        "tciqW8VKfOU"
+      ]
+    },
+    {
+      "nome": "Mrwhosetheboss",
+      "video_dopo": [
+        "5MhRZp2uunc"
+      ],
+      "video_prima": [
+        "SSC0RkJuBVw"
+      ]
+    },
+    {
+      "nome": "Tech Burner",
+      "video_dopo": [
+        "9ZTu_aOSmfg"
+      ],
+      "video_prima": [
+        "cCYObFBEp0k"
+      ]
+    },
+    {
+      "nome": "6 months later",
+      "video_dopo": [
+        "RCDwT5D0MRg"
+      ],
+      "video_prima": [
+        "LBvM_sGnxQw"
+      ]
+    },
+    {
+      "nome": "CNBC television",
+      "video_dopo": [
+        "WLz9oDYKxIs"
+      ],
+      "video_prima": [
+        "vMINprh9pzQ"
+      ]
+    },
+    {
+      "nome": "The Verge",
+      "video_dopo": [
+        "hdwaWxY11jQ"
+      ],
+      "video_prima": []
+    }
+  ]
+}

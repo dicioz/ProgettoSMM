@@ -1,0 +1,4344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="interaction_type" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="activity_score" attr.type="double" />
+  <key id="d1" for="node" attr.name="total_likes" attr.type="long" />
+  <key id="d0" for="node" attr.name="comments_count" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="@zwenkwiel816">
+      <data key="d0">72</data>
+      <data key="d1">80</data>
+      <data key="d2">50.4019322738032</data>
+    </node>
+    <node id="@officialANON001">
+      <data key="d0">66</data>
+      <data key="d1">4</data>
+      <data key="d2">46.20009661369016</data>
+    </node>
+    <node id="@sqlevolicious">
+      <data key="d0">65</data>
+      <data key="d1">88</data>
+      <data key="d2">45.50212550118352</data>
+    </node>
+    <node id="@piouslake2816">
+      <data key="d0">64</data>
+      <data key="d1">7</data>
+      <data key="d2">44.800169073957775</data>
+    </node>
+    <node id="@zavierwiley">
+      <data key="d0">59</data>
+      <data key="d1">5</data>
+      <data key="d2">41.300120767112695</data>
+    </node>
+    <node id="@DeepDishPizza">
+      <data key="d0">54</data>
+      <data key="d1">6</data>
+      <data key="d2">37.80014492053524</data>
+    </node>
+    <node id="@lucasread1743">
+      <data key="d0">43</data>
+      <data key="d1">25</data>
+      <data key="d2">30.100603835563497</data>
+    </node>
+    <node id="@kz.productions">
+      <data key="d0">41</data>
+      <data key="d1">42</data>
+      <data key="d2">28.70101444374668</data>
+    </node>
+    <node id="@Ouroboros-5">
+      <data key="d0">40</data>
+      <data key="d1">3</data>
+      <data key="d2">28.00007246026762</data>
+    </node>
+    <node id="@chillies4156">
+      <data key="d0">39</data>
+      <data key="d1">2</data>
+      <data key="d2">27.300048306845078</data>
+    </node>
+    <node id="@TEGelonmuskhack">
+      <data key="d0">37</data>
+      <data key="d1">1</data>
+      <data key="d2">25.90002415342254</data>
+    </node>
+    <node id="@heyfarhanirfan">
+      <data key="d0">35</data>
+      <data key="d1">0</data>
+      <data key="d2">24.5</data>
+    </node>
+    <node id="@TeamCloud.">
+      <data key="d0">33</data>
+      <data key="d1">2</data>
+      <data key="d2">23.10004830684508</data>
+    </node>
+    <node id="@adamconsidine6384">
+      <data key="d0">32</data>
+      <data key="d1">15</data>
+      <data key="d2">22.4003623013381</data>
+    </node>
+    <node id="@retrocomputing">
+      <data key="d0">30</data>
+      <data key="d1">4</data>
+      <data key="d2">21.00009661369016</data>
+    </node>
+    <node id="@KungFuLasse">
+      <data key="d0">30</data>
+      <data key="d1">3</data>
+      <data key="d2">21.00007246026762</data>
+    </node>
+    <node id="@SSukram_">
+      <data key="d0">29</data>
+      <data key="d1">37</data>
+      <data key="d2">20.300893676633976</data>
+    </node>
+    <node id="@michaelbell75">
+      <data key="d0">29</data>
+      <data key="d1">0</data>
+      <data key="d2">20.299999999999997</data>
+    </node>
+    <node id="@westmcgee9320">
+      <data key="d0">28</data>
+      <data key="d1">25</data>
+      <data key="d2">19.600603835563497</data>
+    </node>
+    <node id="@anonymous-tu9ou">
+      <data key="d0">27</data>
+      <data key="d1">136</data>
+      <data key="d2">18.903284865465434</data>
+    </node>
+    <node id="@smittyvanjagermanjenson182">
+      <data key="d0">25</data>
+      <data key="d1">42</data>
+      <data key="d2">17.50101444374668</data>
+    </node>
+    <node id="@michaelchen2718">
+      <data key="d0">25</data>
+      <data key="d1">40</data>
+      <data key="d2">17.5009661369016</data>
+    </node>
+    <node id="@ronaldocost4">
+      <data key="d0">24</data>
+      <data key="d1">34</data>
+      <data key="d2">16.800821216366355</data>
+    </node>
+    <node id="@clintmiller88">
+      <data key="d0">24</data>
+      <data key="d1">5</data>
+      <data key="d2">16.8001207671127</data>
+    </node>
+    <node id="@6MonthsLater">
+      <data key="d0">23</data>
+      <data key="d1">176</data>
+      <data key="d2">16.104251002367032</data>
+    </node>
+    <node id="@notcat56">
+      <data key="d0">21</data>
+      <data key="d1">216</data>
+      <data key="d2">14.705217139268633</data>
+    </node>
+    <node id="@fabolousjada5070">
+      <data key="d0">21</data>
+      <data key="d1">15</data>
+      <data key="d2">14.7003623013381</data>
+    </node>
+    <node id="@randomnickify">
+      <data key="d0">21</data>
+      <data key="d1">5</data>
+      <data key="d2">14.700120767112699</data>
+    </node>
+    <node id="@3ksubswith0vidschallenge">
+      <data key="d0">20</data>
+      <data key="d1">382</data>
+      <data key="d2">14.00922660741027</data>
+    </node>
+    <node id="@dtz1000">
+      <data key="d0">20</data>
+      <data key="d1">53</data>
+      <data key="d2">14.00128013139462</data>
+    </node>
+    <node id="@k.vn.k">
+      <data key="d0">20</data>
+      <data key="d1">22</data>
+      <data key="d2">14.00053137529588</data>
+    </node>
+    <node id="@PySnek">
+      <data key="d0">20</data>
+      <data key="d1">12</data>
+      <data key="d2">14.00028984107048</data>
+    </node>
+    <node id="@eSKAone-">
+      <data key="d0">19</data>
+      <data key="d1">12</data>
+      <data key="d2">13.300289841070478</data>
+    </node>
+    <node id="@fishfood8711">
+      <data key="d0">19</data>
+      <data key="d1">1</data>
+      <data key="d2">13.30002415342254</data>
+    </node>
+    <node id="@poopman4">
+      <data key="d0">18</data>
+      <data key="d1">72</data>
+      <data key="d2">12.601739046422878</data>
+    </node>
+    <node id="@ArveKarve">
+      <data key="d0">18</data>
+      <data key="d1">31</data>
+      <data key="d2">12.600748756098739</data>
+    </node>
+    <node id="@ahirboy720">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">12.600434761605719</data>
+    </node>
+    <node id="@Tarets">
+      <data key="d0">17</data>
+      <data key="d1">817</data>
+      <data key="d2">11.919733346215157</data>
+    </node>
+    <node id="@ash_yt0">
+      <data key="d0">17</data>
+      <data key="d1">2</data>
+      <data key="d2">11.900048306845079</data>
+    </node>
+    <node id="@corail53">
+      <data key="d0">16</data>
+      <data key="d1">50</data>
+      <data key="d2">11.201207671126998</data>
+    </node>
+    <node id="@sebastiannolte1201">
+      <data key="d0">16</data>
+      <data key="d1">7</data>
+      <data key="d2">11.20016907395778</data>
+    </node>
+    <node id="@charliedulin">
+      <data key="d0">16</data>
+      <data key="d1">3</data>
+      <data key="d2">11.20007246026762</data>
+    </node>
+    <node id="@JohnSmith-pn2vl">
+      <data key="d0">16</data>
+      <data key="d1">2</data>
+      <data key="d2">11.20004830684508</data>
+    </node>
+    <node id="@Just_a_random_birb">
+      <data key="d0">16</data>
+      <data key="d1">2</data>
+      <data key="d2">11.20004830684508</data>
+    </node>
+    <node id="@LordZarano">
+      <data key="d0">16</data>
+      <data key="d1">2</data>
+      <data key="d2">11.20004830684508</data>
+    </node>
+    <node id="@Young_Dab">
+      <data key="d0">16</data>
+      <data key="d1">2</data>
+      <data key="d2">11.20004830684508</data>
+    </node>
+    <node id="@wassilia1234">
+      <data key="d0">15</data>
+      <data key="d1">16</data>
+      <data key="d2">10.500386454760639</data>
+    </node>
+    <node id="@davidskidmore3442">
+      <data key="d0">15</data>
+      <data key="d1">9</data>
+      <data key="d2">10.50021738080286</data>
+    </node>
+    <node id="@ShadowriverUB">
+      <data key="d0">15</data>
+      <data key="d1">5</data>
+      <data key="d2">10.5001207671127</data>
+    </node>
+    <node id="@alternatedenz">
+      <data key="d0">15</data>
+      <data key="d1">0</data>
+      <data key="d2">10.5</data>
+    </node>
+    <node id="@leandrrob">
+      <data key="d0">14</data>
+      <data key="d1">15</data>
+      <data key="d2">9.8003623013381</data>
+    </node>
+    <node id="@acslater017">
+      <data key="d0">14</data>
+      <data key="d1">12</data>
+      <data key="d2">9.800289841070478</data>
+    </node>
+    <node id="@iPhoneAppReviewer">
+      <data key="d0">14</data>
+      <data key="d1">11</data>
+      <data key="d2">9.800265687647938</data>
+    </node>
+    <node id="@holycaketree">
+      <data key="d0">14</data>
+      <data key="d1">4</data>
+      <data key="d2">9.800096613690158</data>
+    </node>
+    <node id="@eddiegabriel8243">
+      <data key="d0">14</data>
+      <data key="d1">2</data>
+      <data key="d2">9.80004830684508</data>
+    </node>
+    <node id="@masterdinosawr">
+      <data key="d0">14</data>
+      <data key="d1">2</data>
+      <data key="d2">9.80004830684508</data>
+    </node>
+    <node id="@SaintKimbo">
+      <data key="d0">13</data>
+      <data key="d1">43</data>
+      <data key="d2">9.101038597169218</data>
+    </node>
+    <node id="@A.Netizen.Since.2010">
+      <data key="d0">13</data>
+      <data key="d1">14</data>
+      <data key="d2">9.10033814791556</data>
+    </node>
+    <node id="@crypticTV">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">9.10031399449302</data>
+    </node>
+    <node id="@United_Wings">
+      <data key="d0">13</data>
+      <data key="d1">10</data>
+      <data key="d2">9.100241534225399</data>
+    </node>
+    <node id="@MatthewRumble">
+      <data key="d0">13</data>
+      <data key="d1">4</data>
+      <data key="d2">9.100096613690159</data>
+    </node>
+    <node id="@toututu2993">
+      <data key="d0">13</data>
+      <data key="d1">3</data>
+      <data key="d2">9.10007246026762</data>
+    </node>
+    <node id="@DrWellRound">
+      <data key="d0">13</data>
+      <data key="d1">2</data>
+      <data key="d2">9.10004830684508</data>
+    </node>
+    <node id="@bobowon5450">
+      <data key="d0">13</data>
+      <data key="d1">1</data>
+      <data key="d2">9.10002415342254</data>
+    </node>
+    <node id="@eyeDavid">
+      <data key="d0">13</data>
+      <data key="d1">1</data>
+      <data key="d2">9.10002415342254</data>
+    </node>
+    <node id="@ghost-user559">
+      <data key="d0">13</data>
+      <data key="d1">1</data>
+      <data key="d2">9.10002415342254</data>
+    </node>
+    <node id="@DigitalNomadOnFIRE">
+      <data key="d0">13</data>
+      <data key="d1">0</data>
+      <data key="d2">9.1</data>
+    </node>
+    <node id="@PratikshaKoli-qr3op">
+      <data key="d0">13</data>
+      <data key="d1">0</data>
+      <data key="d2">9.1</data>
+    </node>
+    <node id="@batman_2004">
+      <data key="d0">13</data>
+      <data key="d1">0</data>
+      <data key="d2">9.1</data>
+    </node>
+    <node id="@heyspookyboogie644">
+      <data key="d0">13</data>
+      <data key="d1">0</data>
+      <data key="d2">9.1</data>
+    </node>
+    <node id="@MrUnknownXD">
+      <data key="d0">8</data>
+      <data key="d1">124205</data>
+      <data key="d2">8.59997584657746</data>
+    </node>
+    <node id="@乂">
+      <data key="d0">12</data>
+      <data key="d1">5652</data>
+      <data key="d2">8.536515144195931</data>
+    </node>
+    <node id="@estusflask982">
+      <data key="d0">12</data>
+      <data key="d1">57</data>
+      <data key="d2">8.401376745084777</data>
+    </node>
+    <node id="@LeagueofJay137">
+      <data key="d0">12</data>
+      <data key="d1">32</data>
+      <data key="d2">8.400772909521278</data>
+    </node>
+    <node id="@filip9564">
+      <data key="d0">12</data>
+      <data key="d1">24</data>
+      <data key="d2">8.400579682140958</data>
+    </node>
+    <node id="@LauS0">
+      <data key="d0">12</data>
+      <data key="d1">14</data>
+      <data key="d2">8.400338147915559</data>
+    </node>
+    <node id="@fanpoop3811">
+      <data key="d0">12</data>
+      <data key="d1">14</data>
+      <data key="d2">8.400338147915559</data>
+    </node>
+    <node id="@Ray-dl5mp">
+      <data key="d0">12</data>
+      <data key="d1">9</data>
+      <data key="d2">8.400217380802859</data>
+    </node>
+    <node id="@hueluca">
+      <data key="d0">12</data>
+      <data key="d1">6</data>
+      <data key="d2">8.400144920535238</data>
+    </node>
+    <node id="@def_not-luigi">
+      <data key="d0">12</data>
+      <data key="d1">4</data>
+      <data key="d2">8.400096613690158</data>
+    </node>
+    <node id="@montygill2835">
+      <data key="d0">12</data>
+      <data key="d1">3</data>
+      <data key="d2">8.40007246026762</data>
+    </node>
+    <node id="@unloveableandre">
+      <data key="d0">12</data>
+      <data key="d1">2</data>
+      <data key="d2">8.400048306845079</data>
+    </node>
+    <node id="@KarlTheExpert">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+      <data key="d2">8.400024153422539</data>
+    </node>
+    <node id="@nicolaecalin4217">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+      <data key="d2">8.400024153422539</data>
+    </node>
+    <node id="@tutacat">
+      <data key="d0">12</data>
+      <data key="d1">1</data>
+      <data key="d2">8.400024153422539</data>
+    </node>
+    <node id="@Tom-cn4cm">
+      <data key="d0">12</data>
+      <data key="d1">0</data>
+      <data key="d2">8.399999999999999</data>
+    </node>
+    <node id="@free_gold4467">
+      <data key="d0">12</data>
+      <data key="d1">0</data>
+      <data key="d2">8.399999999999999</data>
+    </node>
+    <node id="@gv100_blitz">
+      <data key="d0">12</data>
+      <data key="d1">0</data>
+      <data key="d2">8.399999999999999</data>
+    </node>
+    <node id="@pumpuppthevolume">
+      <data key="d0">12</data>
+      <data key="d1">0</data>
+      <data key="d2">8.399999999999999</data>
+    </node>
+    <node id="@kevinbailey8827">
+      <data key="d0">11</data>
+      <data key="d1">58</data>
+      <data key="d2">7.701400898507318</data>
+    </node>
+    <node id="@TheHomeExpert5">
+      <data key="d0">11</data>
+      <data key="d1">13</data>
+      <data key="d2">7.700313994493019</data>
+    </node>
+    <node id="@luckylanno">
+      <data key="d0">11</data>
+      <data key="d1">5</data>
+      <data key="d2">7.700120767112699</data>
+    </node>
+    <node id="@nagyFerko">
+      <data key="d0">11</data>
+      <data key="d1">3</data>
+      <data key="d2">7.700072460267619</data>
+    </node>
+    <node id="@unkown34x33">
+      <data key="d0">11</data>
+      <data key="d1">3</data>
+      <data key="d2">7.700072460267619</data>
+    </node>
+    <node id="@zachmoyer1849">
+      <data key="d0">11</data>
+      <data key="d1">3</data>
+      <data key="d2">7.700072460267619</data>
+    </node>
+    <node id="@davidlee8406">
+      <data key="d0">11</data>
+      <data key="d1">1</data>
+      <data key="d2">7.7000241534225395</data>
+    </node>
+    <node id="@lupolinar">
+      <data key="d0">11</data>
+      <data key="d1">1</data>
+      <data key="d2">7.7000241534225395</data>
+    </node>
+    <node id="@strategistaow3520">
+      <data key="d0">11</data>
+      <data key="d1">1</data>
+      <data key="d2">7.7000241534225395</data>
+    </node>
+    <node id="@andy-xz2uk">
+      <data key="d0">11</data>
+      <data key="d1">0</data>
+      <data key="d2">7.699999999999999</data>
+    </node>
+    <node id="@deathvideogame">
+      <data key="d0">11</data>
+      <data key="d1">0</data>
+      <data key="d2">7.699999999999999</data>
+    </node>
+    <node id="@mattalford3932">
+      <data key="d0">11</data>
+      <data key="d1">0</data>
+      <data key="d2">7.699999999999999</data>
+    </node>
+    <node id="@GreenWin88">
+      <data key="d0">10</data>
+      <data key="d1">1837</data>
+      <data key="d2">7.044369837205932</data>
+    </node>
+    <node id="@lmaoidgaf">
+      <data key="d0">10</data>
+      <data key="d1">114</data>
+      <data key="d2">7.002753490169557</data>
+    </node>
+    <node id="@delamar6199">
+      <data key="d0">10</data>
+      <data key="d1">101</data>
+      <data key="d2">7.002439495676537</data>
+    </node>
+    <node id="@BattleBladeWarrior">
+      <data key="d0">10</data>
+      <data key="d1">70</data>
+      <data key="d2">7.001690739577798</data>
+    </node>
+    <node id="@MobileDecay">
+      <data key="d0">10</data>
+      <data key="d1">23</data>
+      <data key="d2">7.00055552871842</data>
+    </node>
+    <node id="@PSy84">
+      <data key="d0">10</data>
+      <data key="d1">16</data>
+      <data key="d2">7.00038645476064</data>
+    </node>
+    <node id="@reckless1280">
+      <data key="d0">10</data>
+      <data key="d1">13</data>
+      <data key="d2">7.00031399449302</data>
+    </node>
+    <node id="@MegaLokopo">
+      <data key="d0">10</data>
+      <data key="d1">11</data>
+      <data key="d2">7.00026568764794</data>
+    </node>
+    <node id="@InfoSopher">
+      <data key="d0">10</data>
+      <data key="d1">8</data>
+      <data key="d2">7.000193227380319</data>
+    </node>
+    <node id="@_narcosis">
+      <data key="d0">10</data>
+      <data key="d1">7</data>
+      <data key="d2">7.00016907395778</data>
+    </node>
+    <node id="@frostedbutts4340">
+      <data key="d0">10</data>
+      <data key="d1">6</data>
+      <data key="d2">7.00014492053524</data>
+    </node>
+    <node id="@AryanKumar-jo1pz">
+      <data key="d0">10</data>
+      <data key="d1">5</data>
+      <data key="d2">7.0001207671126995</data>
+    </node>
+    <node id="@BHAPPY255">
+      <data key="d0">10</data>
+      <data key="d1">5</data>
+      <data key="d2">7.0001207671126995</data>
+    </node>
+    <node id="@whwhwhhwhhhwhdldkjdsnsjsks6544">
+      <data key="d0">10</data>
+      <data key="d1">5</data>
+      <data key="d2">7.0001207671126995</data>
+    </node>
+    <node id="@jozefdoyle">
+      <data key="d0">10</data>
+      <data key="d1">3</data>
+      <data key="d2">7.00007246026762</data>
+    </node>
+    <node id="@Haarba1">
+      <data key="d0">10</data>
+      <data key="d1">2</data>
+      <data key="d2">7.00004830684508</data>
+    </node>
+    <node id="@LukaPaja">
+      <data key="d0">10</data>
+      <data key="d1">2</data>
+      <data key="d2">7.00004830684508</data>
+    </node>
+    <node id="@sanakiyamam1987">
+      <data key="d0">10</data>
+      <data key="d1">2</data>
+      <data key="d2">7.00004830684508</data>
+    </node>
+    <node id="@truthbullets">
+      <data key="d0">10</data>
+      <data key="d1">2</data>
+      <data key="d2">7.00004830684508</data>
+    </node>
+    <node id="@ConservativeJuggaloPodcast">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@Emet.V">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@High-Tech-Geek">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@Knightfire66">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@TaccRaccoon">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@TerraMagnus">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@aaronaustrie">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@prowlTV">
+      <data key="d0">10</data>
+      <data key="d1">1</data>
+      <data key="d2">7.00002415342254</data>
+    </node>
+    <node id="@Countryballs_Animation_Studios">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@TooTRUEtoBeG00D">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@ahmedkol7605">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@davidgoldstean317">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@portanrayken3814">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@realtay9">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@user-sf9gs2pg1b">
+      <data key="d0">10</data>
+      <data key="d1">0</data>
+      <data key="d2">7.0</data>
+    </node>
+    <node id="@Roshan_420">
+      <data key="d0">9</data>
+      <data key="d1">184</data>
+      <data key="d2">6.304444229747355</data>
+    </node>
+    <node id="@Henrix1998">
+      <data key="d0">9</data>
+      <data key="d1">36</data>
+      <data key="d2">6.300869523211439</data>
+    </node>
+    <node id="@Rudgged">
+      <data key="d0">9</data>
+      <data key="d1">29</data>
+      <data key="d2">6.300700449253659</data>
+    </node>
+    <node id="@j.p.6932">
+      <data key="d0">9</data>
+      <data key="d1">29</data>
+      <data key="d2">6.300700449253659</data>
+    </node>
+    <node id="@Musicthenandnow">
+      <data key="d0">9</data>
+      <data key="d1">28</data>
+      <data key="d2">6.300676295831119</data>
+    </node>
+    <node id="@Stevo.100">
+      <data key="d0">9</data>
+      <data key="d1">26</data>
+      <data key="d2">6.300627988986039</data>
+    </node>
+    <node id="@cannotwest">
+      <data key="d0">9</data>
+      <data key="d1">26</data>
+      <data key="d2">6.300627988986039</data>
+    </node>
+    <node id="@ThierryTiramisu">
+      <data key="d0">9</data>
+      <data key="d1">22</data>
+      <data key="d2">6.300531375295879</data>
+    </node>
+    <node id="@ninjanerdstudent6937">
+      <data key="d0">9</data>
+      <data key="d1">22</data>
+      <data key="d2">6.300531375295879</data>
+    </node>
+    <node id="@sarthakjain1824">
+      <data key="d0">9</data>
+      <data key="d1">22</data>
+      <data key="d2">6.300531375295879</data>
+    </node>
+    <node id="@NøshikiYT">
+      <data key="d0">9</data>
+      <data key="d1">20</data>
+      <data key="d2">6.3004830684507995</data>
+    </node>
+    <node id="@tatianaes3354">
+      <data key="d0">9</data>
+      <data key="d1">20</data>
+      <data key="d2">6.3004830684507995</data>
+    </node>
+    <node id="@alexanderkaiser89">
+      <data key="d0">9</data>
+      <data key="d1">13</data>
+      <data key="d2">6.3003139944930195</data>
+    </node>
+    <node id="@functionatthejunction">
+      <data key="d0">9</data>
+      <data key="d1">11</data>
+      <data key="d2">6.30026568764794</data>
+    </node>
+    <node id="@MathGPT">
+      <data key="d0">9</data>
+      <data key="d1">10</data>
+      <data key="d2">6.3002415342254</data>
+    </node>
+    <node id="@moomin7461">
+      <data key="d0">9</data>
+      <data key="d1">10</data>
+      <data key="d2">6.3002415342254</data>
+    </node>
+    <node id="@nerfgodbigguy1405">
+      <data key="d0">9</data>
+      <data key="d1">6</data>
+      <data key="d2">6.30014492053524</data>
+    </node>
+    <node id="@c.daubz.5386">
+      <data key="d0">9</data>
+      <data key="d1">4</data>
+      <data key="d2">6.30009661369016</data>
+    </node>
+    <node id="@noot3778">
+      <data key="d0">9</data>
+      <data key="d1">4</data>
+      <data key="d2">6.30009661369016</data>
+    </node>
+    <node id="@notaregard">
+      <data key="d0">9</data>
+      <data key="d1">4</data>
+      <data key="d2">6.30009661369016</data>
+    </node>
+    <node id="@weho_brian">
+      <data key="d0">9</data>
+      <data key="d1">3</data>
+      <data key="d2">6.30007246026762</data>
+    </node>
+    <node id="@GGori_99">
+      <data key="d0">9</data>
+      <data key="d1">2</data>
+      <data key="d2">6.300048306845079</data>
+    </node>
+    <node id="@LyfeWithJoy">
+      <data key="d0">9</data>
+      <data key="d1">2</data>
+      <data key="d2">6.300048306845079</data>
+    </node>
+    <node id="@dominic7012">
+      <data key="d0">9</data>
+      <data key="d1">2</data>
+      <data key="d2">6.300048306845079</data>
+    </node>
+    <node id="@s.w.4409">
+      <data key="d0">9</data>
+      <data key="d1">2</data>
+      <data key="d2">6.300048306845079</data>
+    </node>
+    <node id="@sashabagdasarow497">
+      <data key="d0">9</data>
+      <data key="d1">2</data>
+      <data key="d2">6.300048306845079</data>
+    </node>
+    <node id="@tinminator8905">
+      <data key="d0">9</data>
+      <data key="d1">2</data>
+      <data key="d2">6.300048306845079</data>
+    </node>
+    <node id="@AzumiRM">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@L.A-h5s">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@PSYCHOV3N0M">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@WEEBLE_FORCE">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@beez1717">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@davidwong7283">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@karamkatcha">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@werrutkyupnext">
+      <data key="d0">9</data>
+      <data key="d1">1</data>
+      <data key="d2">6.30002415342254</data>
+    </node>
+    <node id="@AttilaTheHun333333">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@UZRome">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@WhyteLis21">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@divinusfilius3771">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@justinscinema5960">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@onemorechris">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@redstonecommander5190">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@saulgoodman2018">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@shdmd2118">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@solidsnakeXY810">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@someperson9998">
+      <data key="d0">9</data>
+      <data key="d1">0</data>
+      <data key="d2">6.3</data>
+    </node>
+    <node id="@chicken">
+      <data key="d0">8</data>
+      <data key="d1">842</data>
+      <data key="d2">5.620337181778658</data>
+    </node>
+    <node id="@JustAPersonWhoComments">
+      <data key="d0">8</data>
+      <data key="d1">436</data>
+      <data key="d2">5.610530892227429</data>
+    </node>
+    <node id="@Abbidy">
+      <data key="d0">8</data>
+      <data key="d1">73</data>
+      <data key="d2">5.601763199845418</data>
+    </node>
+    <node id="@SkaterStimm">
+      <data key="d0">8</data>
+      <data key="d1">51</data>
+      <data key="d2">5.601231824549538</data>
+    </node>
+    <node id="@Donavanw28">
+      <data key="d0">8</data>
+      <data key="d1">30</data>
+      <data key="d2">5.600724602676199</data>
+    </node>
+    <node id="@NeonVisual">
+      <data key="d0">8</data>
+      <data key="d1">21</data>
+      <data key="d2">5.600507221873339</data>
+    </node>
+    <node id="@Aggie4life77">
+      <data key="d0">8</data>
+      <data key="d1">15</data>
+      <data key="d2">5.600362301338099</data>
+    </node>
+    <node id="@adityavarshney8636">
+      <data key="d0">8</data>
+      <data key="d1">15</data>
+      <data key="d2">5.600362301338099</data>
+    </node>
+    <node id="@dropsey3007">
+      <data key="d0">8</data>
+      <data key="d1">13</data>
+      <data key="d2">5.600313994493019</data>
+    </node>
+    <node id="@AnonymousGameWarden">
+      <data key="d0">8</data>
+      <data key="d1">10</data>
+      <data key="d2">5.6002415342253995</data>
+    </node>
+    <node id="@DropPCTV">
+      <data key="d0">8</data>
+      <data key="d1">10</data>
+      <data key="d2">5.6002415342253995</data>
+    </node>
+    <node id="@a_plastic_bag">
+      <data key="d0">8</data>
+      <data key="d1">10</data>
+      <data key="d2">5.6002415342253995</data>
+    </node>
+    <node id="@MikeLikesChannel">
+      <data key="d0">8</data>
+      <data key="d1">9</data>
+      <data key="d2">5.600217380802859</data>
+    </node>
+    <node id="@Shubham89453">
+      <data key="d0">8</data>
+      <data key="d1">9</data>
+      <data key="d2">5.600217380802859</data>
+    </node>
+    <node id="@RohitSharma19985">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">5.600193227380319</data>
+    </node>
+    <node id="@theworm7156">
+      <data key="d0">8</data>
+      <data key="d1">6</data>
+      <data key="d2">5.600144920535239</data>
+    </node>
+    <node id="@IanZainea1990">
+      <data key="d0">8</data>
+      <data key="d1">5</data>
+      <data key="d2">5.600120767112699</data>
+    </node>
+    <node id="@anjolatope-babalola2338">
+      <data key="d0">8</data>
+      <data key="d1">5</data>
+      <data key="d2">5.600120767112699</data>
+    </node>
+    <node id="@eulehund99">
+      <data key="d0">8</data>
+      <data key="d1">5</data>
+      <data key="d2">5.600120767112699</data>
+    </node>
+    <node id="@jdarg4163">
+      <data key="d0">8</data>
+      <data key="d1">5</data>
+      <data key="d2">5.600120767112699</data>
+    </node>
+    <node id="@GenericGamer">
+      <data key="d0">8</data>
+      <data key="d1">4</data>
+      <data key="d2">5.60009661369016</data>
+    </node>
+    <node id="@betonman9">
+      <data key="d0">8</data>
+      <data key="d1">3</data>
+      <data key="d2">5.6000724602676195</data>
+    </node>
+    <node id="@deltadom33">
+      <data key="d0">8</data>
+      <data key="d1">3</data>
+      <data key="d2">5.6000724602676195</data>
+    </node>
+    <node id="@eon5323">
+      <data key="d0">8</data>
+      <data key="d1">2</data>
+      <data key="d2">5.600048306845079</data>
+    </node>
+    <node id="@noway8233">
+      <data key="d0">8</data>
+      <data key="d1">2</data>
+      <data key="d2">5.600048306845079</data>
+    </node>
+    <node id="@AOLAmericaOnline">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@AnonymousYoutuberAccount">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@Ayo22210">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@GateKeeper-nx8yq">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@JohnSmith-ef8nr">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@Sayan-s-v9d">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@dan9700">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@owlmostdead9492">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@pmm1767">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@ramizhaciyev099">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@superjaykramer">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@the_derpler">
+      <data key="d0">8</data>
+      <data key="d1">1</data>
+      <data key="d2">5.60002415342254</data>
+    </node>
+    <node id="@CentauriSatoko">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@Hollowdude15">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@JohnDeLeon28">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@JunkBondTrader">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@Lostcause1974">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@Moviehighclub">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@RAYDEEY17">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@ViridianFlow">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@brianbitchballs3902">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@confidential02">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@nathanielcradle-yourrichfriend">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@nutzeeer">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@raufsat8261">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@victordelacruzProducer">
+      <data key="d0">8</data>
+      <data key="d1">0</data>
+      <data key="d2">5.6</data>
+    </node>
+    <node id="@hamza-chaudhry">
+      <data key="d0">7</data>
+      <data key="d1">1210</data>
+      <data key="d2">4.9292256412733675</data>
+    </node>
+    <node id="@sketchtheparadigmyork1217">
+      <data key="d0">7</data>
+      <data key="d1">222</data>
+      <data key="d2">4.905362059803874</data>
+    </node>
+    <node id="@TheOnlyName">
+      <data key="d0">7</data>
+      <data key="d1">193</data>
+      <data key="d2">4.904661610550215</data>
+    </node>
+    <node id="@terranhealer">
+      <data key="d0">7</data>
+      <data key="d1">180</data>
+      <data key="d2">4.904347616057195</data>
+    </node>
+    <node id="@garydiamondguitarist">
+      <data key="d0">7</data>
+      <data key="d1">36</data>
+      <data key="d2">4.900869523211439</data>
+    </node>
+    <node id="@mokaLARE">
+      <data key="d0">7</data>
+      <data key="d1">35</data>
+      <data key="d2">4.9008453697888985</data>
+    </node>
+    <node id="@SeanoldBeasley">
+      <data key="d0">7</data>
+      <data key="d1">33</data>
+      <data key="d2">4.900797062943819</data>
+    </node>
+    <node id="@goobfilmcast4239">
+      <data key="d0">7</data>
+      <data key="d1">30</data>
+      <data key="d2">4.900724602676199</data>
+    </node>
+    <node id="@DawitBayulgn">
+      <data key="d0">7</data>
+      <data key="d1">28</data>
+      <data key="d2">4.9006762958311185</data>
+    </node>
+    <node id="@Sp12er">
+      <data key="d0">7</data>
+      <data key="d1">27</data>
+      <data key="d2">4.900652142408579</data>
+    </node>
+    <node id="@headerahelix">
+      <data key="d0">7</data>
+      <data key="d1">24</data>
+      <data key="d2">4.900579682140958</data>
+    </node>
+    <node id="@ryanator109">
+      <data key="d0">7</data>
+      <data key="d1">20</data>
+      <data key="d2">4.900483068450799</data>
+    </node>
+    <node id="@alvallac2171">
+      <data key="d0">7</data>
+      <data key="d1">17</data>
+      <data key="d2">4.900410608183179</data>
+    </node>
+    <node id="@Rocknoob49">
+      <data key="d0">7</data>
+      <data key="d1">16</data>
+      <data key="d2">4.900386454760639</data>
+    </node>
+    <node id="@kusumgupta4966">
+      <data key="d0">7</data>
+      <data key="d1">16</data>
+      <data key="d2">4.900386454760639</data>
+    </node>
+    <node id="@Jgvcfguy">
+      <data key="d0">7</data>
+      <data key="d1">15</data>
+      <data key="d2">4.900362301338099</data>
+    </node>
+    <node id="@homie7218">
+      <data key="d0">7</data>
+      <data key="d1">13</data>
+      <data key="d2">4.900313994493019</data>
+    </node>
+    <node id="@southerncyan4098">
+      <data key="d0">7</data>
+      <data key="d1">13</data>
+      <data key="d2">4.900313994493019</data>
+    </node>
+    <node id="@Omar-kl3xp">
+      <data key="d0">7</data>
+      <data key="d1">12</data>
+      <data key="d2">4.900289841070479</data>
+    </node>
+    <node id="@karigrandii">
+      <data key="d0">7</data>
+      <data key="d1">12</data>
+      <data key="d2">4.900289841070479</data>
+    </node>
+    <node id="@sharonb.9128">
+      <data key="d0">7</data>
+      <data key="d1">10</data>
+      <data key="d2">4.900241534225399</data>
+    </node>
+    <node id="@omgitsbees">
+      <data key="d0">7</data>
+      <data key="d1">9</data>
+      <data key="d2">4.900217380802859</data>
+    </node>
+    <node id="@caio5987">
+      <data key="d0">7</data>
+      <data key="d1">8</data>
+      <data key="d2">4.900193227380319</data>
+    </node>
+    <node id="@Bendover44444">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">4.9001690739577795</data>
+    </node>
+    <node id="@bobweiram6321">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">4.9001690739577795</data>
+    </node>
+    <node id="@enterdata">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">4.9001690739577795</data>
+    </node>
+    <node id="@kamranki">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">4.9001690739577795</data>
+    </node>
+    <node id="@ploppill34">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">4.9001690739577795</data>
+    </node>
+    <node id="@Hiluxtaco">
+      <data key="d0">7</data>
+      <data key="d1">6</data>
+      <data key="d2">4.900144920535239</data>
+    </node>
+    <node id="@WARnTEA">
+      <data key="d0">7</data>
+      <data key="d1">5</data>
+      <data key="d2">4.900120767112699</data>
+    </node>
+    <node id="@dpatrick813">
+      <data key="d0">7</data>
+      <data key="d1">5</data>
+      <data key="d2">4.900120767112699</data>
+    </node>
+    <node id="@janq3r-xc3yf">
+      <data key="d0">7</data>
+      <data key="d1">5</data>
+      <data key="d2">4.900120767112699</data>
+    </node>
+    <node id="@lesavaria">
+      <data key="d0">7</data>
+      <data key="d1">5</data>
+      <data key="d2">4.900120767112699</data>
+    </node>
+    <node id="@DeadDancers">
+      <data key="d0">7</data>
+      <data key="d1">4</data>
+      <data key="d2">4.90009661369016</data>
+    </node>
+    <node id="@SmokeGoneDead">
+      <data key="d0">7</data>
+      <data key="d1">4</data>
+      <data key="d2">4.90009661369016</data>
+    </node>
+    <node id="@anthony21roman">
+      <data key="d0">7</data>
+      <data key="d1">4</data>
+      <data key="d2">4.90009661369016</data>
+    </node>
+    <node id="@findgod...">
+      <data key="d0">7</data>
+      <data key="d1">4</data>
+      <data key="d2">4.90009661369016</data>
+    </node>
+    <node id="@loscanty">
+      <data key="d0">7</data>
+      <data key="d1">4</data>
+      <data key="d2">4.90009661369016</data>
+    </node>
+    <node id="@wile123456">
+      <data key="d0">7</data>
+      <data key="d1">4</data>
+      <data key="d2">4.90009661369016</data>
+    </node>
+    <node id="@P__114">
+      <data key="d0">7</data>
+      <data key="d1">3</data>
+      <data key="d2">4.900072460267619</data>
+    </node>
+    <node id="@YasinHasan">
+      <data key="d0">7</data>
+      <data key="d1">3</data>
+      <data key="d2">4.900072460267619</data>
+    </node>
+    <node id="@arnavsingh2008s">
+      <data key="d0">7</data>
+      <data key="d1">3</data>
+      <data key="d2">4.900072460267619</data>
+    </node>
+    <node id="@hamzerpanzer">
+      <data key="d0">7</data>
+      <data key="d1">3</data>
+      <data key="d2">4.900072460267619</data>
+    </node>
+    <node id="@nubikun">
+      <data key="d0">7</data>
+      <data key="d1">3</data>
+      <data key="d2">4.900072460267619</data>
+    </node>
+    <node id="@waleedsharif618">
+      <data key="d0">7</data>
+      <data key="d1">3</data>
+      <data key="d2">4.900072460267619</data>
+    </node>
+    <node id="@MeNoOther">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@OutOfNameIdeas2">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@PhazonBlaxor">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@TechnooRam">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@anecro">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@dylanguerrero8053">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@energ8t">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@therealventures">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@watchfulBison">
+      <data key="d0">7</data>
+      <data key="d1">2</data>
+      <data key="d2">4.900048306845079</data>
+    </node>
+    <node id="@Dreadpirateflappy">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@ImotekhtheStormlord-tx2it">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@JezebelIsHongry">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@Mecharnie_Dobbs">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@Piggysussybanana">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@amandaburleson2035">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@crazymusicgrlcheesecake">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@dplj4428">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@greendro6410">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@izored">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@nuyou21">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@simaknaveedakther8755">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@spacetoast7783">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@yfua">
+      <data key="d0">7</data>
+      <data key="d1">1</data>
+      <data key="d2">4.90002415342254</data>
+    </node>
+    <node id="@FinesseHermes">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@HolloMatlala1">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@Jdevil21">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@Narwhal12">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@Tylhoz">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@VengefulCowSpirit">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@amochswohntet99">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@anynomous11111">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@beautyneytiri">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@benbunch4159">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@bradavon">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@chrisbrown8748">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@curequranavirustoday6467">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@elkolo2857">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@exil3dlivecom">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@forzaski">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@heavy0119">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@johnybravo5667">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@n.b.p.davenport7066">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@rickthe533">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@samsonsliteye">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@shortvidz9576">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@srivatsanmuruganandhan9589">
+      <data key="d0">7</data>
+      <data key="d1">0</data>
+      <data key="d2">4.8999999999999995</data>
+    </node>
+    <node id="@lisam.willson1679">
+      <data key="d0">6</data>
+      <data key="d1">284</data>
+      <data key="d2">4.206859572001352</data>
+    </node>
+    <node id="@tiagomaqz">
+      <data key="d0">6</data>
+      <data key="d1">261</data>
+      <data key="d2">4.206304043282932</data>
+    </node>
+    <node id="@Riceordie">
+      <data key="d0">6</data>
+      <data key="d1">250</data>
+      <data key="d2">4.206038355634993</data>
+    </node>
+    <node id="@HeisenbergFam">
+      <data key="d0">6</data>
+      <data key="d1">194</data>
+      <data key="d2">4.204685763972754</data>
+    </node>
+    <node id="@RyanSoltani">
+      <data key="d0">6</data>
+      <data key="d1">167</data>
+      <data key="d2">4.204033621564175</data>
+    </node>
+    <node id="@PfropfNo1">
+      <data key="d0">6</data>
+      <data key="d1">155</data>
+      <data key="d2">4.203743780493696</data>
+    </node>
+    <node id="@Josh_Palmer_UK">
+      <data key="d0">6</data>
+      <data key="d1">96</data>
+      <data key="d2">4.202318728563837</data>
+    </node>
+    <node id="@iclonethefirst">
+      <data key="d0">6</data>
+      <data key="d1">92</data>
+      <data key="d2">4.202222114873677</data>
+    </node>
+    <node id="@TheKomenter">
+      <data key="d0">6</data>
+      <data key="d1">86</data>
+      <data key="d2">4.202077194338437</data>
+    </node>
+    <node id="@AM_9924">
+      <data key="d0">6</data>
+      <data key="d1">74</data>
+      <data key="d2">4.2017873532679575</data>
+    </node>
+    <node id="@JUSTINBUISSON">
+      <data key="d0">6</data>
+      <data key="d1">54</data>
+      <data key="d2">4.201304284817158</data>
+    </node>
+    <node id="@TheRealAryans567">
+      <data key="d0">6</data>
+      <data key="d1">51</data>
+      <data key="d2">4.201231824549538</data>
+    </node>
+    <node id="@Chrisratata">
+      <data key="d0">6</data>
+      <data key="d1">44</data>
+      <data key="d2">4.201062750591758</data>
+    </node>
+    <node id="@Errcyco">
+      <data key="d0">6</data>
+      <data key="d1">43</data>
+      <data key="d2">4.201038597169219</data>
+    </node>
+    <node id="@ThatOneScienceGuy">
+      <data key="d0">6</data>
+      <data key="d1">43</data>
+      <data key="d2">4.201038597169219</data>
+    </node>
+    <node id="@heyjeySigma">
+      <data key="d0">6</data>
+      <data key="d1">39</data>
+      <data key="d2">4.2009419834790585</data>
+    </node>
+    <node id="@ReeceCentre">
+      <data key="d0">6</data>
+      <data key="d1">38</data>
+      <data key="d2">4.200917830056518</data>
+    </node>
+    <node id="@Sergio_uit_de_buurt">
+      <data key="d0">6</data>
+      <data key="d1">37</data>
+      <data key="d2">4.200893676633978</data>
+    </node>
+    <node id="@MarioGoatse">
+      <data key="d0">6</data>
+      <data key="d1">35</data>
+      <data key="d2">4.200845369788898</data>
+    </node>
+    <node id="@liquid79">
+      <data key="d0">6</data>
+      <data key="d1">34</data>
+      <data key="d2">4.200821216366358</data>
+    </node>
+    <node id="@quantuminfinity4260">
+      <data key="d0">6</data>
+      <data key="d1">30</data>
+      <data key="d2">4.200724602676199</data>
+    </node>
+    <node id="@Swole_Gecko">
+      <data key="d0">6</data>
+      <data key="d1">29</data>
+      <data key="d2">4.200700449253659</data>
+    </node>
+    <node id="@SoCalGuitarist">
+      <data key="d0">6</data>
+      <data key="d1">26</data>
+      <data key="d2">4.200627988986039</data>
+    </node>
+    <node id="@andre-le-bone-aparte">
+      <data key="d0">6</data>
+      <data key="d1">24</data>
+      <data key="d2">4.200579682140958</data>
+    </node>
+    <node id="@rutchjohnson">
+      <data key="d0">6</data>
+      <data key="d1">24</data>
+      <data key="d2">4.200579682140958</data>
+    </node>
+    <node id="@Yetr">
+      <data key="d0">6</data>
+      <data key="d1">22</data>
+      <data key="d2">4.200531375295879</data>
+    </node>
+    <node id="@keerthan7558">
+      <data key="d0">6</data>
+      <data key="d1">22</data>
+      <data key="d2">4.200531375295879</data>
+    </node>
+    <node id="@jonblair5470">
+      <data key="d0">6</data>
+      <data key="d1">19</data>
+      <data key="d2">4.200458915028259</data>
+    </node>
+    <node id="@kindofanmol">
+      <data key="d0">6</data>
+      <data key="d1">19</data>
+      <data key="d2">4.200458915028259</data>
+    </node>
+    <node id="@Shajirr_">
+      <data key="d0">6</data>
+      <data key="d1">15</data>
+      <data key="d2">4.200362301338099</data>
+    </node>
+    <node id="@relo999">
+      <data key="d0">6</data>
+      <data key="d1">15</data>
+      <data key="d2">4.200362301338099</data>
+    </node>
+    <node id="@rocketmunkey1">
+      <data key="d0">6</data>
+      <data key="d1">15</data>
+      <data key="d2">4.200362301338099</data>
+    </node>
+    <node id="@t6-30">
+      <data key="d0">6</data>
+      <data key="d1">15</data>
+      <data key="d2">4.200362301338099</data>
+    </node>
+    <node id="@SimpleJayDee">
+      <data key="d0">6</data>
+      <data key="d1">14</data>
+      <data key="d2">4.200338147915559</data>
+    </node>
+    <node id="@EcoThink2024">
+      <data key="d0">6</data>
+      <data key="d1">12</data>
+      <data key="d2">4.200289841070479</data>
+    </node>
+    <node id="@elck3">
+      <data key="d0">6</data>
+      <data key="d1">12</data>
+      <data key="d2">4.200289841070479</data>
+    </node>
+    <node id="@CallMeVidd">
+      <data key="d0">6</data>
+      <data key="d1">11</data>
+      <data key="d2">4.200265687647939</data>
+    </node>
+    <node id="@WDN-Wes-DelNews">
+      <data key="d0">6</data>
+      <data key="d1">11</data>
+      <data key="d2">4.200265687647939</data>
+    </node>
+    <node id="@Diceytysie">
+      <data key="d0">6</data>
+      <data key="d1">10</data>
+      <data key="d2">4.200241534225399</data>
+    </node>
+    <node id="@davidwatchesyoutube247">
+      <data key="d0">6</data>
+      <data key="d1">10</data>
+      <data key="d2">4.200241534225399</data>
+    </node>
+    <node id="@Haarschmuckfachgeschafttadpole">
+      <data key="d0">6</data>
+      <data key="d1">9</data>
+      <data key="d2">4.200217380802859</data>
+    </node>
+    <node id="@a11aaa11a">
+      <data key="d0">6</data>
+      <data key="d1">8</data>
+      <data key="d2">4.200193227380319</data>
+    </node>
+    <node id="@moswanedev">
+      <data key="d0">6</data>
+      <data key="d1">8</data>
+      <data key="d2">4.200193227380319</data>
+    </node>
+    <node id="@01bigtrev">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@HyperHrishiHD">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@Sanquinity">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@Sypher474">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@XinYell">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@darkguardian1314">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@presentthepast">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@sunnohh">
+      <data key="d0">6</data>
+      <data key="d1">7</data>
+      <data key="d2">4.200169073957779</data>
+    </node>
+    <node id="@abhivipgamer">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">4.200144920535239</data>
+    </node>
+    <node id="@chaosengine3772">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">4.200144920535239</data>
+    </node>
+    <node id="@gonzalorojo6815">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">4.200144920535239</data>
+    </node>
+    <node id="@josedorsaith5261">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">4.200144920535239</data>
+    </node>
+    <node id="@nickwallette6201">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">4.200144920535239</data>
+    </node>
+    <node id="@rdspam">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">4.200144920535239</data>
+    </node>
+    <node id="@DNOJ">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@EzeBall1710">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@MAR_10-x5w">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@Turbomars">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@bigmagictent">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@efenili">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@josef2012">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@nick.100">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@ropro9817">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@smallbutdeadly931">
+      <data key="d0">6</data>
+      <data key="d1">5</data>
+      <data key="d2">4.200120767112699</data>
+    </node>
+    <node id="@AMHAPPY">
+      <data key="d0">6</data>
+      <data key="d1">4</data>
+      <data key="d2">4.200096613690159</data>
+    </node>
+    <node id="@ColonelSternlove">
+      <data key="d0">6</data>
+      <data key="d1">4</data>
+      <data key="d2">4.200096613690159</data>
+    </node>
+    <node id="@ItsVasl">
+      <data key="d0">6</data>
+      <data key="d1">4</data>
+      <data key="d2">4.200096613690159</data>
+    </node>
+    <node id="@JonySmith-bb4gx">
+      <data key="d0">6</data>
+      <data key="d1">4</data>
+      <data key="d2">4.200096613690159</data>
+    </node>
+    <node id="@karthikeyan53">
+      <data key="d0">6</data>
+      <data key="d1">4</data>
+      <data key="d2">4.200096613690159</data>
+    </node>
+    <node id="@tgktepe">
+      <data key="d0">6</data>
+      <data key="d1">4</data>
+      <data key="d2">4.200096613690159</data>
+    </node>
+    <node id="@Johnnygga">
+      <data key="d0">6</data>
+      <data key="d1">3</data>
+      <data key="d2">4.200072460267619</data>
+    </node>
+    <node id="@allstargoldnuggets1309">
+      <data key="d0">6</data>
+      <data key="d1">3</data>
+      <data key="d2">4.200072460267619</data>
+    </node>
+    <node id="@igot5onit423">
+      <data key="d0">6</data>
+      <data key="d1">3</data>
+      <data key="d2">4.200072460267619</data>
+    </node>
+    <node id="@ilexcorp">
+      <data key="d0">6</data>
+      <data key="d1">3</data>
+      <data key="d2">4.200072460267619</data>
+    </node>
+    <node id="@5ksubswith0vidschallenge">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@80-80.">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@Adiii-n6n">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@ChristopherGuilday">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@Cyba_IT">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@John-5737">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@Steenwy286">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@TheAkdzyn">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@darkwoodmovies">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@facetubetwit1444">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@is.that_everest">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@nolagospeltracts8264">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@wiegraf9009">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+      <data key="d2">4.200048306845079</data>
+    </node>
+    <node id="@BillyNoMates1974">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@DanLetts97">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@Hmmmm-t6x">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@MichaelGGarry">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@Mobik_">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@Needglory23">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@Qwiv">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@S.E.C-R">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@SP4CEBAR">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@SixOhFive">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@Zomboy4313">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@_DreamzGaming">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@amsterdan333">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@autohmae">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@diddlybop">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@dizzyndead">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@druu988">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@ejicon3099">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@ferdinandkohler2575">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@fxeditors">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@gljames24">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@ilyaklimenko5666">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@laughingvampire7555">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@masterkc">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@mysticery">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@npcimknot958">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@podboq2">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@pyeltd.1997">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@roodick85">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@sabkh916">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@senti2175">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@skepabbas9400">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@splendidsystems">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@stijnVDA1994">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@super-moroshka">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@theinterruptedlife1783">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@theviralstuff4460">
+      <data key="d0">6</data>
+      <data key="d1">1</data>
+      <data key="d2">4.2000241534225395</data>
+    </node>
+    <node id="@1aboPLZ">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@Aetherakabane">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@Alyan172">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@AtlantaGuns">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@Blazepointfive">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@EtherealGoddess_Ent">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@ExpanderDJ">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@GoobNoob">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@HelloKittyFanMan">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@IwinMahWay">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@JohnWick-c137">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@Justintime2GrowNetwork">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@LILEE376">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@MasteroooGGway">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@NiklasMalmqvist">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@PartyGod">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@RS2020-tb6hf">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@Soraviel">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@SwiftySanders">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@VVOPOL">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@WindFireAllThatKindOfThing">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@Zakariah1971">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@benyboybob">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@bgjck">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@chaitanyamaddineni2020">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@claytonconn-mh6ve">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@cranbers">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@crisper1614">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@damaylaphoenix1155">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@danopticon">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@dennwilliams3342">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@freeshipping9643">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@harshchelani9896">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@itisWhatitis12345">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@john38825">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@jshooper7819">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@lac19951">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@lattermanstudio">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@lbeetech">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@leakyabstraction">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@memoryinfo2676">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@mikeh.9954">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@newagain9964">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@nolanmales">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@osayomoreogbemudia">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@phoenixyt124">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@rohittkrr">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@samuelmarndi">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@sensorycircuits1338">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@skvvlk">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@srdvizions1345">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@tgs1766">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@theo5675">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@tkps">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@v4kira">
+      <data key="d0">6</data>
+      <data key="d1">0</data>
+      <data key="d2">4.199999999999999</data>
+    </node>
+    <node id="@ethanmenzel">
+      <data key="d0">5</data>
+      <data key="d1">2683</data>
+      <data key="d2">3.56480363267475</data>
+    </node>
+    <node id="@TimeBucks">
+      <data key="d0">5</data>
+      <data key="d1">2252</data>
+      <data key="d2">3.5543935075600213</data>
+    </node>
+    <node id="@Wynnsanity">
+      <data key="d0">4</data>
+      <data key="d1">30862</data>
+      <data key="d2">3.5454229264286745</data>
+    </node>
+    <node id="@thanos879">
+      <data key="d0">5</data>
+      <data key="d1">1470</data>
+      <data key="d2">3.5355055311337615</data>
+    </node>
+    <node id="@revit4909">
+      <data key="d0">5</data>
+      <data key="d1">407</data>
+      <data key="d2">3.5098304429737692</data>
+    </node>
+    <node id="@ShatteredObjects">
+      <data key="d0">5</data>
+      <data key="d1">218</data>
+      <data key="d2">3.5052654461137145</data>
+    </node>
+    <node id="@Konarcoffee">
+      <data key="d0">5</data>
+      <data key="d1">184</data>
+      <data key="d2">3.5044442297473553</data>
+    </node>
+    <node id="@christophernugent8492">
+      <data key="d0">5</data>
+      <data key="d1">183</data>
+      <data key="d2">3.5044200763248154</data>
+    </node>
+    <node id="@LearningandTechnology">
+      <data key="d0">5</data>
+      <data key="d1">137</data>
+      <data key="d2">3.5033090188879763</data>
+    </node>
+    <node id="@RandomKSandom">
+      <data key="d0">5</data>
+      <data key="d1">84</data>
+      <data key="d2">3.5020288874933576</data>
+    </node>
+    <node id="@GMAceM">
+      <data key="d0">5</data>
+      <data key="d1">83</data>
+      <data key="d2">3.502004734070818</data>
+    </node>
+    <node id="@scottmartin5492">
+      <data key="d0">5</data>
+      <data key="d1">80</data>
+      <data key="d2">3.501932273803198</data>
+    </node>
+    <node id="@thejjzz">
+      <data key="d0">5</data>
+      <data key="d1">80</data>
+      <data key="d2">3.501932273803198</data>
+    </node>
+    <node id="@Utuber459">
+      <data key="d0">5</data>
+      <data key="d1">75</data>
+      <data key="d2">3.501811506690498</data>
+    </node>
+    <node id="@clean280">
+      <data key="d0">5</data>
+      <data key="d1">70</data>
+      <data key="d2">3.501690739577798</data>
+    </node>
+    <node id="@mpilomhlanga9349">
+      <data key="d0">5</data>
+      <data key="d1">69</data>
+      <data key="d2">3.5016665861552583</data>
+    </node>
+    <node id="@TheSnatchbuckler">
+      <data key="d0">5</data>
+      <data key="d1">59</data>
+      <data key="d2">3.5014250519298584</data>
+    </node>
+    <node id="@jonahhammond2438">
+      <data key="d0">5</data>
+      <data key="d1">59</data>
+      <data key="d2">3.5014250519298584</data>
+    </node>
+    <node id="@AnonN-sr6uu">
+      <data key="d0">5</data>
+      <data key="d1">58</data>
+      <data key="d2">3.5014008985073186</data>
+    </node>
+    <node id="@mattmurphy7030">
+      <data key="d0">5</data>
+      <data key="d1">56</data>
+      <data key="d2">3.5013525916622386</data>
+    </node>
+    <node id="@cyberstorm64">
+      <data key="d0">5</data>
+      <data key="d1">49</data>
+      <data key="d2">3.5011835177044586</data>
+    </node>
+    <node id="@AchyutChaudhary">
+      <data key="d0">5</data>
+      <data key="d1">34</data>
+      <data key="d2">3.5008212163663592</data>
+    </node>
+    <node id="@Fennecbutt">
+      <data key="d0">5</data>
+      <data key="d1">34</data>
+      <data key="d2">3.5008212163663592</data>
+    </node>
+    <node id="@marzoval">
+      <data key="d0">5</data>
+      <data key="d1">33</data>
+      <data key="d2">3.500797062943819</data>
+    </node>
+    <node id="@rainbowchic2012">
+      <data key="d0">5</data>
+      <data key="d1">32</data>
+      <data key="d2">3.500772909521279</data>
+    </node>
+    <node id="@immortalsun">
+      <data key="d0">5</data>
+      <data key="d1">28</data>
+      <data key="d2">3.500676295831119</data>
+    </node>
+    <node id="@rabtecho">
+      <data key="d0">5</data>
+      <data key="d1">27</data>
+      <data key="d2">3.5006521424085792</data>
+    </node>
+    <node id="@TheN8ism">
+      <data key="d0">5</data>
+      <data key="d1">25</data>
+      <data key="d2">3.500603835563499</data>
+    </node>
+    <node id="@RunForPeace-hk1cu">
+      <data key="d0">5</data>
+      <data key="d1">24</data>
+      <data key="d2">3.5005796821409594</data>
+    </node>
+    <node id="@linuxsever5727">
+      <data key="d0">5</data>
+      <data key="d1">24</data>
+      <data key="d2">3.5005796821409594</data>
+    </node>
+    <node id="@CasualG-mer">
+      <data key="d0">5</data>
+      <data key="d1">19</data>
+      <data key="d2">3.5004589150282595</data>
+    </node>
+    <node id="@amitnagpal1985">
+      <data key="d0">5</data>
+      <data key="d1">19</data>
+      <data key="d2">3.5004589150282595</data>
+    </node>
+    <node id="@jetling">
+      <data key="d0">5</data>
+      <data key="d1">19</data>
+      <data key="d2">3.5004589150282595</data>
+    </node>
+    <node id="@jamesroy791">
+      <data key="d0">5</data>
+      <data key="d1">17</data>
+      <data key="d2">3.5004106081831794</data>
+    </node>
+    <node id="@pixelglobal8528">
+      <data key="d0">5</data>
+      <data key="d1">17</data>
+      <data key="d2">3.5004106081831794</data>
+    </node>
+    <node id="@TehJumpingJawa">
+      <data key="d0">5</data>
+      <data key="d1">16</data>
+      <data key="d2">3.5003864547606396</data>
+    </node>
+    <node id="@ultramet">
+      <data key="d0">5</data>
+      <data key="d1">16</data>
+      <data key="d2">3.5003864547606396</data>
+    </node>
+    <node id="@bujin5455">
+      <data key="d0">5</data>
+      <data key="d1">15</data>
+      <data key="d2">3.5003623013381</data>
+    </node>
+    <node id="@darkandtwisted">
+      <data key="d0">5</data>
+      <data key="d1">14</data>
+      <data key="d2">3.5003381479155595</data>
+    </node>
+    <node id="@erickheredia8910">
+      <data key="d0">5</data>
+      <data key="d1">14</data>
+      <data key="d2">3.5003381479155595</data>
+    </node>
+    <node id="@sebluketravis2438">
+      <data key="d0">5</data>
+      <data key="d1">14</data>
+      <data key="d2">3.5003381479155595</data>
+    </node>
+    <node id="@Cricket_Editz-44-4">
+      <data key="d0">5</data>
+      <data key="d1">13</data>
+      <data key="d2">3.5003139944930197</data>
+    </node>
+    <node id="@Jayden-lr2mm">
+      <data key="d0">5</data>
+      <data key="d1">13</data>
+      <data key="d2">3.5003139944930197</data>
+    </node>
+    <node id="@LeveragedFinance">
+      <data key="d0">5</data>
+      <data key="d1">13</data>
+      <data key="d2">3.5003139944930197</data>
+    </node>
+    <node id="@declanashmore">
+      <data key="d0">5</data>
+      <data key="d1">13</data>
+      <data key="d2">3.5003139944930197</data>
+    </node>
+    <node id="@ከምካፉተይ">
+      <data key="d0">5</data>
+      <data key="d1">13</data>
+      <data key="d2">3.5003139944930197</data>
+    </node>
+    <node id="@Leanzazzy">
+      <data key="d0">5</data>
+      <data key="d1">12</data>
+      <data key="d2">3.5002898410704795</data>
+    </node>
+    <node id="@mattjgraham">
+      <data key="d0">5</data>
+      <data key="d1">12</data>
+      <data key="d2">3.5002898410704795</data>
+    </node>
+    <node id="@JackmanJackman-kk6tv">
+      <data key="d0">5</data>
+      <data key="d1">11</data>
+      <data key="d2">3.5002656876479397</data>
+    </node>
+    <node id="@PhilipPetkov">
+      <data key="d0">5</data>
+      <data key="d1">11</data>
+      <data key="d2">3.5002656876479397</data>
+    </node>
+    <node id="@higherstandard710">
+      <data key="d0">5</data>
+      <data key="d1">11</data>
+      <data key="d2">3.5002656876479397</data>
+    </node>
+    <node id="@superkikim4916">
+      <data key="d0">5</data>
+      <data key="d1">11</data>
+      <data key="d2">3.5002656876479397</data>
+    </node>
+    <node id="@theankotze1292">
+      <data key="d0">5</data>
+      <data key="d1">11</data>
+      <data key="d2">3.5002656876479397</data>
+    </node>
+    <node id="@Skankhunt42-xl9fq">
+      <data key="d0">5</data>
+      <data key="d1">10</data>
+      <data key="d2">3.5002415342254</data>
+    </node>
+    <node id="@Amit_l92">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@Aswinishere">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@Cimlite">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@DiamondMaster115">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@McPebbster">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@MrYinkster">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@SethManex">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@denesk2794">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@phoenixmorphix">
+      <data key="d0">5</data>
+      <data key="d1">9</data>
+      <data key="d2">3.5002173808028596</data>
+    </node>
+    <node id="@christopherbrunson1232">
+      <data key="d0">5</data>
+      <data key="d1">8</data>
+      <data key="d2">3.50019322738032</data>
+    </node>
+    <node id="@techtipsuk">
+      <data key="d0">5</data>
+      <data key="d1">8</data>
+      <data key="d2">3.50019322738032</data>
+    </node>
+    <node id="@zero11010">
+      <data key="d0">5</data>
+      <data key="d1">8</data>
+      <data key="d2">3.50019322738032</data>
+    </node>
+    <node id="@Gabri3lRocha">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@MarcSpctr">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@MorgFlame">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@YuProducciones">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@cassiuscartland">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@minecat1839">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@sanketgamingofficial77">
+      <data key="d0">5</data>
+      <data key="d1">7</data>
+      <data key="d2">3.50016907395778</data>
+    </node>
+    <node id="@Dusti_buns">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@Trinket_Master">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@WigganNuG">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@armanke13">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@crikch">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@ivihari">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@maximusg88">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@ruschein">
+      <data key="d0">5</data>
+      <data key="d1">6</data>
+      <data key="d2">3.5001449205352397</data>
+    </node>
+    <node id="@ImARealHumanPerson">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@KiwiKoNZ">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@MaximoToro">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@Shyamol.Saha.08">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@SpiceGoat">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@alienware2149">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@ashfaquealam6414">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@billienomates1606">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@mmo5366">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@pastuh">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@techsamurai11">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@titanproductions3628">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">3.5001207671127</data>
+    </node>
+    <node id="@Glornak">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@Krieky">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@NBTJacklyn">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@RasenRambo23">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@SRC267">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@armando-is-lost">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@chardelraconner7324">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@deanwilliams433">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@iPhoneVídeos-z5s">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@nirbhaykumarchaubey8777">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@parttimehuman">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@turbyoulance">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@uku4171">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+      <data key="d2">3.5000966136901597</data>
+    </node>
+    <node id="@ArthropodSpidey">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@CraftDNDraftDAI">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@FSK1138">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@King_504">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@MrAndrew941">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@RA-el6zj">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@SIRICKO">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@Steve21_harris">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@ahtoshkaa">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@chriswebbtech">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@jetstream01">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@kovanova9409">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@megamegaO">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@mrnorthz9373">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@oliverpolden">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@pratikkalani6289">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@rottskylive">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@tinto278">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@은우1401">
+      <data key="d0">5</data>
+      <data key="d1">3</data>
+      <data key="d2">3.50007246026762</data>
+    </node>
+    <node id="@As1fAhmad">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Cap_management">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Diggnuts">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@FantiR">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@FlatEarthDenier">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@HUYI1">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Music34897">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Reflex_ZGod">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@ReubenAStern">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Socksydeeryenaboi">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Superz3ro">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@TexRobNC">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@Truth-op3be">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@brandonpadilla2084">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@graphixkillzzz">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@jumaaljbar3255">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@killkiss_son">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@knufyeinundzwanzig2004">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@pr00009">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@southwestkinema9149">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@supermonkeyCL">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@vr0k3n">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@wrybread">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@xevious2501">
+      <data key="d0">5</data>
+      <data key="d1">2</data>
+      <data key="d2">3.50004830684508</data>
+    </node>
+    <node id="@1javixD">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Andrew-pv8oz">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@CheekiTiki">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@FavoriteTechX">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@GreenBlueWalkthrough">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@HenleyBailey">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Iamzombiehunter">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@JNB0723">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Jinkypigs">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Jonas-ej7id">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@JonasViatte">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Losqq">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Onion_Knights">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@Raderade1-pt3om">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@TDL122TDL">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@TheHopelessGeek">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@TheoWerewolf">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@ThereIsNoSpoon678">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@VR-Emcee">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@VibraniumDetector">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@W-C-F-o1k">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@WestCoastAce27">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@adanalyst6925">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@appletree5955">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@brightumoru423">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@cern1999sb">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@danypell2517">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@dave-000">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@ddolde">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@emeraldages">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@emileriksson76">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@flipletape9706">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@grproteus">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@karlosmartos4646">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@marcusjackson2874">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@metacob">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@n9ne">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@nathanonearth">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@peterwan816">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@randyh647">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@seebarry4068">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@sobeso">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@steveoTHEGREAT">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@thatonebeone">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@the_beyswapper9688">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@thomgizziz">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@treverpitts">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@votdfak">
+      <data key="d0">5</data>
+      <data key="d1">1</data>
+      <data key="d2">3.50002415342254</data>
+    </node>
+    <node id="@AlanTheBeast100">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@ArielMarcelo">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@BeCreativePictures">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Blockistium">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Boss_Fight_Index_Channel">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Bredddi">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@BubbIes_G">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@ButWhyWasTaken">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@ChibiSteak">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Crawdoodle">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@DJType1">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@DrBoombay86">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@DwAboutItManFr">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@FasterBueno">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Firestorm637">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@GT-tj1qg">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Godspeedysick">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Just.A.T-Rex">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@KROMAprd">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Kaffar2006">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@KenLinx">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Lexip_Pixel">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Leztalkabouteet">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@LumiereNoire_Studio">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Manishaben_Vasava">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@MastaKeahi">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Mauri.El.Creador">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@MilushevGeorgi">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@NGEvangeliman">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@NicleT">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Nonixification">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@OkayDip">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@OsasOsas-y5f">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@PavelPirogov">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@RMari-s6l">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@RickRijuanaPro">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@TechMyLifeVideo">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@TigroGumi">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Tombombadillo999">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Transforming2026">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@Twister2005">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@XvirusX">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@YHK_YT">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@ZaibatsuHeavyIndustries">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@aaronalquiza9680">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@abhishekpandey4932">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@andresfurious8302">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <node id="@bare.minimum.">
+      <data key="d0">5</data>
+      <data key="d1">0</data>
+      <data key="d2">3.5</data>
+    </node>
+    <edge source="@zwenkwiel816" target="@zero11010">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@zwenkwiel816" target="@rutchjohnson">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@zwenkwiel816" target="@frostedbutts4340">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@officialANON001" target="@AzumiRM">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@officialANON001" target="@bgjck">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@officialANON001" target="@seebarry4068">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@officialANON001" target="@Steenwy286">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sqlevolicious" target="@rocketmunkey1">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sqlevolicious" target="@cassiuscartland">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sqlevolicious" target="@michaelchen2718">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sqlevolicious" target="@PartyGod">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sqlevolicious" target="@laughingvampire7555">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sqlevolicious" target="@SeanoldBeasley">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@zavierwiley" target="@onemorechris">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DeepDishPizza" target="@AzumiRM">
+      <data key="d3">3</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DeepDishPizza" target="@diddlybop">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DeepDishPizza" target="@emeraldages">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DeepDishPizza" target="@PfropfNo1">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@lucasread1743" target="@phoenixyt124">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@lucasread1743" target="@nolanmales">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Ouroboros-5" target="@MegaLokopo">
+      <data key="d3">3</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Ouroboros-5" target="@ilyaklimenko5666">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Ouroboros-5" target="@DanLetts97">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Ouroboros-5" target="@Qwiv">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Ouroboros-5" target="@super-moroshka">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@TEGelonmuskhack" target="@functionatthejunction">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@TeamCloud." target="@mattalford3932">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@KungFuLasse" target="@noot3778">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@SSukram_" target="@Haarba1">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@SSukram_" target="@Stevo.100">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@michaelbell75" target="@titanproductions3628">
+      <data key="d3">3</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@michaelbell75" target="@NiklasMalmqvist">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@michaelbell75" target="@owlmostdead9492">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@michaelbell75" target="@chriswebbtech">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@michaelbell75" target="@ImotekhtheStormlord-tx2it">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@anonymous-tu9ou" target="@Wynnsanity">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@anonymous-tu9ou" target="@GreenWin88">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@anonymous-tu9ou" target="@alienware2149">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@smittyvanjagermanjenson182" target="@SkaterStimm">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@smittyvanjagermanjenson182" target="@darkwoodmovies">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@michaelchen2718" target="@ArveKarve">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@fabolousjada5070" target="@adityavarshney8636">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@fabolousjada5070" target="@Jinkypigs">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@dtz1000" target="@AnonN-sr6uu">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@dtz1000" target="@JackmanJackman-kk6tv">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@k.vn.k" target="@Aggie4life77">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@k.vn.k" target="@rottskylive">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@k.vn.k" target="@Roshan_420">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@PySnek" target="@FSK1138">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@PySnek" target="@gonzalorojo6815">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@PySnek" target="@tiagomaqz">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@PySnek" target="@grproteus">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@eSKAone-" target="@saulgoodman2018">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@ArveKarve" target="@LeveragedFinance">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Tarets" target="@Blazepointfive">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Tarets" target="@AnonN-sr6uu">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Tarets" target="@Roshan_420">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@corail53" target="@Donavanw28">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@corail53" target="@scottmartin5492">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sebastiannolte1201" target="@KenLinx">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@JohnSmith-pn2vl" target="@ramizhaciyev099">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Just_a_random_birb" target="@DigitalNomadOnFIRE">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@wassilia1234" target="@rutchjohnson">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@ShadowriverUB" target="@oliverpolden">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@leandrrob" target="@DropPCTV">
+      <data key="d3">3</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@SaintKimbo" target="@enterdata">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@toututu2993" target="@ploppill34">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@eyeDavid" target="@reckless1280">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@MrUnknownXD" target="@Stevo.100">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@MrUnknownXD" target="@PSy84">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@MrUnknownXD" target="@Cricket_Editz-44-4">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@MrUnknownXD" target="@SkaterStimm">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@乂" target="@Steve21_harris">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@乂" target="@findgod...">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@乂" target="@Swole_Gecko">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@乂" target="@RyanSoltani">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@乂" target="@Tom-cn4cm">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@乂" target="@tatianaes3354">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@LeagueofJay137" target="@pyeltd.1997">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@LauS0" target="@dizzyndead">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@KarlTheExpert" target="@sanakiyamam1987">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@nagyFerko" target="@ninjanerdstudent6937">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@deathvideogame" target="@stijnVDA1994">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@GreenWin88" target="@homie7218">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@reckless1280" target="@samsonsliteye">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@InfoSopher" target="@ShatteredObjects">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@InfoSopher" target="@Roshan_420">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@BHAPPY255" target="@은우1401">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Haarba1" target="@nathanonearth">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@portanrayken3814" target="@presentthepast">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Roshan_420" target="@JackmanJackman-kk6tv">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sarthakjain1824" target="@PfropfNo1">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@noot3778" target="@Jayden-lr2mm">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@dominic7012" target="@yfua">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@beez1717" target="@dpatrick813">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@davidwong7283" target="@Abbidy">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@SkaterStimm" target="@TheRealAryans567">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@SkaterStimm" target="@Riceordie">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Aggie4life77" target="@RandomKSandom">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Aggie4life77" target="@bigmagictent">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@adityavarshney8636" target="@clean280">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@AnonymousGameWarden" target="@amitnagpal1985">
+      <data key="d3">3</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@AnonymousGameWarden" target="@vr0k3n">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DropPCTV" target="@MrYinkster">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DropPCTV" target="@tinto278">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@a_plastic_bag" target="@King_504">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@MikeLikesChannel" target="@RasenRambo23">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@theworm7156" target="@TheSnatchbuckler">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@eon5323" target="@PfropfNo1">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@eon5323" target="@Amit_l92">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@the_derpler" target="@itisWhatitis12345">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@hamza-chaudhry" target="@minecat1839">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@hamza-chaudhry" target="@hamzerpanzer">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@mokaLARE" target="@1javixD">
+      <data key="d3">3</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@mokaLARE" target="@SmokeGoneDead">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@alvallac2171" target="@enterdata">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@homie7218" target="@Yetr">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@homie7218" target="@mpilomhlanga9349">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@sharonb.9128" target="@denesk2794">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@WARnTEA" target="@TheKomenter">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@dpatrick813" target="@Leztalkabouteet">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@wile123456" target="@HeisenbergFam">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@anecro" target="@danopticon">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@yfua" target="@graphixkillzzz">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Narwhal12" target="@DJType1">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Tylhoz" target="@VibraniumDetector">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@VengefulCowSpirit" target="@tiagomaqz">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@PfropfNo1" target="@SoCalGuitarist">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@heyjeySigma" target="@nolagospeltracts8264">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Yetr" target="@YuProducciones">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@SimpleJayDee" target="@masterkc">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@a11aaa11a" target="@moswanedev">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Sanquinity" target="@zero11010">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@chaosengine3772" target="@LeveragedFinance">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DNOJ" target="@adanalyst6925">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@darkwoodmovies" target="@knufyeinundzwanzig2004">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DanLetts97" target="@pyeltd.1997">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@DanLetts97" target="@1aboPLZ">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@_DreamzGaming" target="@Wynnsanity">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@1aboPLZ" target="@grproteus">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@IwinMahWay" target="@rabtecho">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@Wynnsanity" target="@ShatteredObjects">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@RunForPeace-hk1cu" target="@Jayden-lr2mm">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@christopherbrunson1232" target="@Trinket_Master">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@cassiuscartland" target="@WigganNuG">
+      <data key="d3">1</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+    <edge source="@techsamurai11" target="@adanalyst6925">
+      <data key="d3">2</data>
+      <data key="d4">r,e,p,l,y</data>
+    </edge>
+  </graph>
+</graphml>
